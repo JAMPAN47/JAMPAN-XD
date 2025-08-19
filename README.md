@@ -22,7 +22,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   
 --- 
 
-<a><img src='https://files.catbox.moe/roubzi.jpg'/></a>
+<a><img src='https://files.catbox.moe/uj4jzr.jpg'/></a>
 
 
 
@@ -173,7 +173,7 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 
 THANKS TO 
 
-<a href="https://github.com/Itxxwasi"><img src="https://github.com/Itxxwasi.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
+<a href="https://github.com/JAMPAN47"><img src="https://github.com/JAMPAN47.png" width="250" height="250" alt="Itxx Me kelvin"/></a>
 
 <p><b>THANKS TO KELVIN.</b></p>
 
