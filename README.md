@@ -187,7 +187,7 @@ THANKS TO
 
 ---
 
-<h2 align="left">ℹ️ NOTICE</h2>
+<h2 align="left">🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿🇹🇿</h2>
 <p style="text-align: center; font-size: 1.2em;">
   
 ---
