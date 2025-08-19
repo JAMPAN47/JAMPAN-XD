@@ -14,11 +14,8 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <a href="https://github.com/JAMPAN47/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=Red&center=true&vCenter=true&width=1000&height=200&lines=𝙹𝙰𝙼𝙿𝙰𝙽-𝚇𝙳;𝚅𝙴𝚁𝚂𝙸𝙾𝙽+2025;BY+𝙹𝙰𝙼𝙿𝙰𝙽+47" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐀𝐔𝐑𝐀+𝐆𝐗𝐑+💠+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐊𝐄𝐋𝐕𝐈𝐍)](https://git.io/typing-svg) 
+
   
 --- 
 
